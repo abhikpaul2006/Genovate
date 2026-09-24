@@ -1,0 +1,7 @@
+numpy
+pandas
+geopandas
+matplotlib
+torch==2.5.1
+pillow
+streamlit
